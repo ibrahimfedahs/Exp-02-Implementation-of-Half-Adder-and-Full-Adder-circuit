@@ -58,14 +58,8 @@ endmodule
 # Half Adder Circuit:-
 
 ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/22925cc5-3594-4624-a94e-a1d0a9e550e8)
-
-
 # Full Adder Circuit:-
-
 ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/26cc1c46-2eea-4984-860c-1112a233aa11)
-
-
-*/
 ### Truthtable:-
    Half Adder Circuit:
 
@@ -74,8 +68,6 @@ endmodule
    Full Adder Circuit:-
    
    ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/af2b52f4-f405-40b8-99b3-edc56a770c5c)
-
-*/
 ### RTL realization:
    Half Adder Circuit:
    
