@@ -1,5 +1,5 @@
-### NAME: MUKESH R
-###   Register No:23006020
+### NAME: ibrahim fedah s
+###   Register No:23014264
 # Experiment-03 Implementation of Half Adder and Full Adder circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
